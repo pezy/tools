@@ -1,7 +1,7 @@
 #! python3
 
 '''
-AddComments.py - generate doxygen documentation for functions.
+classComment.py - generate doxygen documentation for class.
 '''
 
 import pyperclip
