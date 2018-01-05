@@ -9,10 +9,10 @@ from datetime import datetime
 
 comments = r'''
 /**
-@class provided in the file
-@brief The class provides
+@class  provided in the file
+@brief  The class provides
 @author pezy
-@date {}
+@date   {}
 @sa
 */
 '''.format(datetime.now().strftime('%Y-%m-%d'))
